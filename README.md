@@ -46,12 +46,12 @@ print(x)
 
 ## Output:
 (i) To find the L and U matrix
-![image]
-(https://github.com/divyakumars/LU-Decomposition/assets/119393621/be199ee4-65b8-4a68-ba8f-437146423546)
+![image]![image](https://github.com/divyakumars/LU-Decomposition/assets/119393621/d51f0b32-23f2-4621-8201-69c926feaa46)
+
 
 (ii) To find the LU Decomposition of a matrix
-![image]
-(https://github.com/divyakumars/LU-Decomposition/assets/119393621/bffd69fa-2505-4a32-b67a-7c10c1aae2d0)
+![image]![image](https://github.com/divyakumars/LU-Decomposition/assets/119393621/b0ac4da5-d01c-4aec-ab73-39406f73a4ef)
+
 
 
 
